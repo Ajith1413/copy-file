@@ -25,8 +25,8 @@ End the program.
 
 ## PROGRAM:
 ```
-Developed by: AJITH KUMAR A
-Register number: 23002150
+#Developed by: AJITH KUMAR A
+#Register number: 23002150
 
 with open('text1.txt','r')as fp:
      msg1=fp.read()
